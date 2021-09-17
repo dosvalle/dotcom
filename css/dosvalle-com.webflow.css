@@ -1801,6 +1801,10 @@ figcaption {
     line-height: 52px;
   }
 
+  .section.cc-store-home-wrap.section-top {
+    overflow: hidden;
+  }
+
   .rich-text {
     width: 100%;
     max-width: none;
@@ -1917,10 +1921,6 @@ figcaption {
 
   .body-image {
     background-position: 0px 0px, 70% 50%;
-  }
-
-  .body {
-    overflow: hidden;
   }
 }
 
