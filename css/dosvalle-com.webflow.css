@@ -634,8 +634,8 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #f4f4f4;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(40%, rgba(0, 0, 0, 0.58)), to(hsla(0, 0%, 100%, 0.6))), url('../images/pexels-mikhail-nilov-6972648.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.58) 40%, hsla(0, 0%, 100%, 0.6)), url('../images/pexels-mikhail-nilov-6972648.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(40%, rgba(0, 23, 32, 0.31)), to(rgba(94, 112, 91, 0.31))), url('../images/pexels-mikhail-nilov-6972648.jpg');
+  background-image: linear-gradient(180deg, rgba(0, 23, 32, 0.31) 40%, rgba(94, 112, 91, 0.31)), url('../images/pexels-mikhail-nilov-6972648.jpg');
   background-position: 0px 0px, 50% 0%;
   background-size: auto, cover;
   color: #fff;
@@ -1388,7 +1388,7 @@ figcaption {
 .body-image {
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 72, 102, 0.31)), to(rgba(152, 168, 175, 0.31))), url('../images/pexels-mikhail-nilov-6973191.jpg');
   background-image: linear-gradient(180deg, rgba(0, 72, 102, 0.31), rgba(152, 168, 175, 0.31)), url('../images/pexels-mikhail-nilov-6973191.jpg');
-  background-position: 0px 0px, 0% 0%;
+  background-position: 0px 0px, 100% 50%;
   background-size: auto, cover;
 }
 
