@@ -1807,8 +1807,21 @@ figcaption {
   }
 
   .heading-jumbo {
-    font-size: 36px;
-    line-height: 48px;
+    margin-bottom: 16px;
+    font-size: 26px;
+    line-height: 34px;
+    font-weight: 500;
+  }
+
+  .logo-link.w--current {
+    max-width: 40%;
+    -webkit-align-self: flex-start;
+    -ms-flex-item-align: start;
+    align-self: flex-start;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 auto;
+    -ms-flex: 0 auto;
+    flex: 0 auto;
   }
 
   .menu {
@@ -1816,8 +1829,8 @@ figcaption {
   }
 
   .navigation {
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
   }
 
   .menu-button {
@@ -1878,6 +1891,10 @@ figcaption {
     max-width: none;
   }
 
+  .contact-info-text-wrap {
+    margin-left: 20px;
+  }
+
   .contact-info-text {
     font-size: 12px;
     font-weight: 600;
@@ -1900,6 +1917,10 @@ figcaption {
 
   .body-image {
     background-position: 0px 0px, 70% 50%;
+  }
+
+  .body {
+    overflow: hidden;
   }
 }
 
