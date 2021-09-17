@@ -1337,6 +1337,7 @@ figcaption {
   color: #004866;
   font-size: 14px;
   font-weight: 500;
+  text-decoration: overline;
 }
 
 .contact-info-text.mobile-address {
@@ -1902,6 +1903,7 @@ figcaption {
   .contact-info-text {
     font-size: 12px;
     font-weight: 600;
+    text-decoration: overline;
   }
 
   .contact-info-text.mobile-address {
